@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Talha Siddique
-- 👀 I’m interested in Web Development, Cloud, Blockchain and AI
-- 🌱 I’m currently improving my fronend skills with ReactJS and learning AWS
+- 🏢 Working as a Junior Software Developer at OceanBuilders
+- 👀 I’m interested in cool tech like Web Development, Cloud, Blockchain and AI
+- 🌱 Currently improving my frontend skills with ReactJS and learning AWS
 - 📫 You can reach me via email at tstalhasiddique@gmail.com
