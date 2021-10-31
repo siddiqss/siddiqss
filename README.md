@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Talha Siddique
+- 👀 I’m interested in Web Development, Cloud, Blockchain and AI
+- 🌱 I’m currently learning full stack web development and AWS
+- 📫 You can reach me via email at tstalhasiddique@gmail.com
